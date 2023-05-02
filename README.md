@@ -1,2 +1,2 @@
 # 333FinalProject
-CS330 Final Project in Java
+CS333 Final Project in Java
